@@ -1,5 +1,5 @@
 # EICU-SOFA
-The SQL query of calcualting hourly sofa score in eICU database: https://eicu-crd.mit.edu/, originally from Xiaoli Liu.
+The SQL query of calculating hourly sofa score in eICU database: https://eicu-crd.mit.edu/, originally from Xiaoli Liu.
 
 ### Quickstart
 First of all, create a new dataset inside your project.
